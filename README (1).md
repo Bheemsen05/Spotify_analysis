@@ -7,7 +7,7 @@ Dataset collected from Kaggle
 - In this data analysis task, first of all I converted all column names into lower case.
 - Calculated numebr of songs of each genre and artist.
 - Dealing with Null values in the dataset.
-- Visulization is very important part, here I visualized data by matplotlub and seaborn.
+- Visulization is very important part, here I visualized data by matplotlib and seaborn.
 - Applied Machine Learning Algorithms.
 - Build machine learning model which predicts **Popularity** of song(s).
 - Comparing Actual and Predicted popularity.
